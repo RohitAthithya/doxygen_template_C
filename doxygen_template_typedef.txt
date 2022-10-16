@@ -1,0 +1,7 @@
+/**
+ * @typedef		${identifier_type_defined}
+ * @brief	${brief_description}
+ * 
+ * ${full_description}
+ */
+${cursor}

@@ -1,0 +1,7 @@
+/**
+ * A data structure 	${name_of_DS}
+ * @breif				${brief_description}
+ * 
+ * ${detailed_description}
+ */
+${cursor}

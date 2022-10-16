@@ -1,0 +1,13 @@
+/**
+ * @fn 		${function_name}
+ * @brief	${brief_description} 
+ * 
+ * @param	${parameter}	${parameter_functionality}
+ * 
+ * @return	${return_type}	${functionality_of_returnee}
+ * 
+ * @note	${notes_if_any}
+ * @warning	${warning_to_user_if_any}
+ * @see		${also_see_this}
+ */
+${cursor}

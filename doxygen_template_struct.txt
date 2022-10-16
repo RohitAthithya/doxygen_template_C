@@ -1,0 +1,7 @@
+/**	
+ * @struct	${struct_name}
+ * @brief	${brief_description}
+ * 
+ * ${full_description}
+ */
+${cursor}

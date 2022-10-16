@@ -1,0 +1,1 @@
+/*< @def ${macro_name}	${macro_usage} */${cursor}
